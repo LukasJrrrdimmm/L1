@@ -35,5 +35,7 @@ Uma instrução do hardware que permite ler o estado de uma variável e alterar 
 
 Z(linguagem de programação)
 UPC(linguagem de programação)
+pthreads
+openMP
 
 */
