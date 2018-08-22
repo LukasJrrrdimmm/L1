@@ -37,5 +37,9 @@ Z(linguagem de programação)
 UPC(linguagem de programação)
 pthreads
 openMP
+Programa Paralelo
+Programa Escalável
+Programa Fracamente Escalável
+
 
 */
