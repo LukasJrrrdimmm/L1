@@ -40,6 +40,7 @@ openMP
 Programa Paralelo
 Programa Escalável
 Programa Fracamente Escalável
+Programa Fortemente Escalável
 
 
 */
